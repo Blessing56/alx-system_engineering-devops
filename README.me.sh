@@ -1,2 +1,2 @@
 #!/bin/bash
-describing what each script is doing
+creating a script that ends in a newline

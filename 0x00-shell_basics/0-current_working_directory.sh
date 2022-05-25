@@ -1,2 +1,2 @@
 #!/bin/bash
-this script is creating a new file
+echo "creating a working directory"
