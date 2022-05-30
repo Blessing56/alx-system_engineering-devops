@@ -1,2 +1,2 @@
 #!/bin/bash
-ex +3p -scq 
+head --lines=3 iacta | tail --lines=1
