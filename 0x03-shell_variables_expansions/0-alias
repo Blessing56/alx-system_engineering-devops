@@ -1,2 +1,2 @@
-#!/bin/bas
-alais ls = rm *h
+#!/bin/bash
+alais ls = rm *
