@@ -7,5 +7,5 @@
 
 for entry in *;
 do
-	echo $entry | cut -d '-' -f2
+	echo "$entry" | cut -d '-' -f2
 done
