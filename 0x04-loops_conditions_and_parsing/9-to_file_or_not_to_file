@@ -4,7 +4,7 @@
 
 
 FILE=school
-if test "$FILE";
+if test -e "$FILE";
 then
 	echo "school file exists"
 	if [ -s $FILE ];
